@@ -11,5 +11,9 @@
     "browsersync"
   ],
   "author": "Douglas Chen (cdswyda)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "electron": "^1.7.9"
+  }
 }
