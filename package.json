@@ -1,0 +1,15 @@
+{
+  "name": "electron-browsersync",
+  "version": "1.0.0",
+  "description": "electron-browsersync",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "browsersync"
+  ],
+  "author": "Douglas Chen (cdswyda)",
+  "license": "MIT"
+}
